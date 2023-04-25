@@ -11,7 +11,7 @@ i18n
     debug: false,
     fallbackLng: 'en',
     backend: {
-      loadPath: '/so-yummy-frontend/locales/{{lng}}/{{ns}}.json',
+      loadPath: '/react_node_fs_56_Bohdan100/locales/{{lng}}/{{ns}}.json',
     },
   });
 
