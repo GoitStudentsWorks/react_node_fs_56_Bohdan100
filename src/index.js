@@ -12,7 +12,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/so-yummy-frontend">
+      <BrowserRouter basename="/react_node_fs_56_Bohdan100">
         <PersistGate loading={null} persistor={persistor}>
             <App />
         </PersistGate>
